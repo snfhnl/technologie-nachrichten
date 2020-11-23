@@ -1,3 +1,4 @@
 languageCode = "de-de"
 title = "Technologie Nachrichten"
 theme = "ananke"
+publishdir = "docs"
