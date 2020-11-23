@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologie Nachrichten</title>
-    <link>/</link>
+    <link>https://epages-de.github.io/technologie-nachrichten/</link>
     <description>Recent content on Technologie Nachrichten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 23 Nov 2020 19:11:51 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epages-de.github.io/technologie-nachrichten/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hallo, Welt!</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://epages-de.github.io/technologie-nachrichten/posts/my-first-post/</link>
       <pubDate>Mon, 23 Nov 2020 19:11:51 +0100</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://epages-de.github.io/technologie-nachrichten/posts/my-first-post/</guid>
       <description>&amp;ldquo;Technologie Nachrichten&amp;rdquo; ist ein Beispielprojekt, um Kollobaration mit GitHub zu üben.</description>
     </item>
     

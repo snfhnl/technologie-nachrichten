@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://epages-de.github.io/technologie-nachrichten/posts/my-first-post/</loc>
     <lastmod>2020-11-23T19:11:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://epages-de.github.io/technologie-nachrichten/posts/</loc>
     <lastmod>2020-11-23T19:11:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://epages-de.github.io/technologie-nachrichten/</loc>
     <lastmod>2020-11-23T19:11:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://epages-de.github.io/technologie-nachrichten/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://epages-de.github.io/technologie-nachrichten/tags/</loc>
   </url>
   
 </urlset>
